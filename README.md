@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking exciting job opportunities.<br>👯 I collaborate with Tech Jr on various projects.<br>🌱 I’m currently honing my skills in frontend development with Node.js.<br>💬 Feel free to reach out to me for any inquiries or discussions.<br>⚡ Fun fact: I'm a cat enthusiast 
+🔭 I’m currently working.<br>👯 I collaborate with Tech Jr, Clube da Leitura and GrupoLira on various projects.<br>🌱 I’m currently honing my skills in frontend/backend development with Node.js.<br>💬 Feel free to reach out to me for any inquiries or discussions.<br>⚡ Fun fact: I'm a cat enthusiast 
 
 
 ## 🌐 Socials:
